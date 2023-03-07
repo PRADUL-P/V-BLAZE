@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vblaze/static/css/main.d15253bb.css",
+    "main.js": "/vblaze/static/js/main.851dd1bf.js",
+    "static/media/site-bg.jpg": "/vblaze/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/services.png": "/vblaze/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/image.png": "/vblaze/static/media/image.a24757192557f6e16b77.png",
+    "static/media/web1.png": "/vblaze/static/media/web1.ba193f138b6dede1abcc.png",
+    "index.html": "/vblaze/index.html",
+    "main.d15253bb.css.map": "/vblaze/static/css/main.d15253bb.css.map",
+    "main.851dd1bf.js.map": "/vblaze/static/js/main.851dd1bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15253bb.css",
+    "static/js/main.851dd1bf.js"
+  ]
+}
