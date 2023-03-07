@@ -1,17 +1,33 @@
 {
   "files": {
-    "main.css": "/vblaze/static/css/main.d15253bb.css",
-    "main.js": "/vblaze/static/js/main.851dd1bf.js",
+    "main.css": "/vblaze/static/css/main.3d94a3e6.css",
+    "main.js": "/vblaze/static/js/main.eed707d0.js",
     "static/media/site-bg.jpg": "/vblaze/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/vblaze/static/media/portfolio-img1.65b23e5c313b18600f24.png",
     "static/media/services.png": "/vblaze/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/python.png": "/vblaze/static/media/python.d8b377f05522bf35de36.png",
+    "static/media/graphql.png": "/vblaze/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/image.png": "/vblaze/static/media/image.a24757192557f6e16b77.png",
+    "static/media/java.png": "/vblaze/static/media/java.5d5cffa04d820ba0644c.png",
+    "static/media/react.png": "/vblaze/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/vblaze/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/vblaze/static/media/github.3b9e32903aa89111875d.png",
     "static/media/web1.png": "/vblaze/static/media/web1.ba193f138b6dede1abcc.png",
+    "static/media/bootstrap.png": "/vblaze/static/media/bootstrap.f9fdc604d11d0f3fee26.png",
+    "static/media/html.png": "/vblaze/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/vblaze/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/vblaze/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/vblaze/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/webdes.svg": "/vblaze/static/media/webdes.783376824d5676b3dde3703cd98d2d73.svg",
+    "static/media/ui.svg": "/vblaze/static/media/ui.eb908f79c4f36815e87d0d32e08e6b33.svg",
+    "static/media/webdev.svg": "/vblaze/static/media/webdev.e5a58c33977498a5c2d49528db679821.svg",
+    "static/media/mob.svg": "/vblaze/static/media/mob.cda1572fd06ae5edaad3c68a037953cd.svg",
     "index.html": "/vblaze/index.html",
-    "main.d15253bb.css.map": "/vblaze/static/css/main.d15253bb.css.map",
-    "main.851dd1bf.js.map": "/vblaze/static/js/main.851dd1bf.js.map"
+    "main.3d94a3e6.css.map": "/vblaze/static/css/main.3d94a3e6.css.map",
+    "main.eed707d0.js.map": "/vblaze/static/js/main.eed707d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d15253bb.css",
-    "static/js/main.851dd1bf.js"
+    "static/css/main.3d94a3e6.css",
+    "static/js/main.eed707d0.js"
   ]
 }
