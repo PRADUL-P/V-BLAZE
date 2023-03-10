@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/V-BLAZE/static/css/main.85812244.css",
-    "main.js": "/V-BLAZE/static/js/main.cf97c2fa.js",
+    "main.js": "/V-BLAZE/static/js/main.595e9e4e.js",
     "static/media/Rasi Kp.jpeg": "/V-BLAZE/static/media/Rasi Kp.f33b244c24d17629f77c.jpeg",
     "static/media/Akash Biju.jpeg": "/V-BLAZE/static/media/Akash Biju.7cb1891f8ca08dcae82b.jpeg",
     "static/media/Mohammed Riyad.jpeg": "/V-BLAZE/static/media/Mohammed Riyad.b00c32c8e5f3b9b2eee4.jpeg",
@@ -33,10 +33,10 @@
     "static/media/mob.svg": "/V-BLAZE/static/media/mob.cda1572fd06ae5edaad3c68a037953cd.svg",
     "index.html": "/V-BLAZE/index.html",
     "main.85812244.css.map": "/V-BLAZE/static/css/main.85812244.css.map",
-    "main.cf97c2fa.js.map": "/V-BLAZE/static/js/main.cf97c2fa.js.map"
+    "main.595e9e4e.js.map": "/V-BLAZE/static/js/main.595e9e4e.js.map"
   },
   "entrypoints": [
     "static/css/main.85812244.css",
-    "static/js/main.cf97c2fa.js"
+    "static/js/main.595e9e4e.js"
   ]
 }
