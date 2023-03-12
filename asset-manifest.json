@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/V-BLAZE/static/css/main.85812244.css",
-    "main.js": "/V-BLAZE/static/js/main.595e9e4e.js",
+    "main.css": "/V-BLAZE/static/css/main.cbe5c30a.css",
+    "main.js": "/V-BLAZE/static/js/main.2cb3403b.js",
+    "static/media/WebDC.png": "/V-BLAZE/static/media/WebDC.25f76a38206f433af51d.png",
+    "static/media/Rajath.jpeg": "/V-BLAZE/static/media/Rajath.4173057e74595ed7d72f.jpeg",
+    "static/media/ignite.png": "/V-BLAZE/static/media/ignite.e695a7e3927b78ced199.png",
+    "static/media/Sruthi.jpeg": "/V-BLAZE/static/media/Sruthi.3fdc6bd5be635fda3cd3.jpeg",
+    "static/media/IEDC.png": "/V-BLAZE/static/media/IEDC.6a038591f4591bd4aae3.png",
     "static/media/Rasi Kp.jpeg": "/V-BLAZE/static/media/Rasi Kp.f33b244c24d17629f77c.jpeg",
     "static/media/Akash Biju.jpeg": "/V-BLAZE/static/media/Akash Biju.7cb1891f8ca08dcae82b.jpeg",
     "static/media/Mohammed Riyad.jpeg": "/V-BLAZE/static/media/Mohammed Riyad.b00c32c8e5f3b9b2eee4.jpeg",
     "static/media/ASWIN Ratheesh DK.jpeg": "/V-BLAZE/static/media/ASWIN Ratheesh DK.cbf85759d99fb269b7bd.jpeg",
     "static/media/site-bg.jpg": "/V-BLAZE/static/media/site-bg.54724d703024833ef9c6.jpg",
-    "static/media/portfolio-img1.png": "/V-BLAZE/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/Keerthana.jpeg": "/V-BLAZE/static/media/Keerthana.adb1abc624115b1f799f.jpeg",
+    "static/media/Athul.jpeg": "/V-BLAZE/static/media/Athul.e40d57e1f19866ec6fb7.jpeg",
     "static/media/services.png": "/V-BLAZE/static/media/services.8e66d4fbbd95de45b8db.png",
     "static/media/python.png": "/V-BLAZE/static/media/python.d8b377f05522bf35de36.png",
+    "static/media/Diya.jpeg": "/V-BLAZE/static/media/Diya.fff9d77451340fcd6c67.jpeg",
     "static/media/Niranj.jpeg": "/V-BLAZE/static/media/Niranj.0f517b95e580430ac172.jpeg",
     "static/media/CRISBIN JOSEPH.jpeg": "/V-BLAZE/static/media/CRISBIN JOSEPH.d945fa1dd18d8cccc38c.jpeg",
+    "static/media/Sheetal.jpeg": "/V-BLAZE/static/media/Sheetal.ffd953c0deddb634179d.jpeg",
     "static/media/graphql.png": "/V-BLAZE/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/image.png": "/V-BLAZE/static/media/image.a24757192557f6e16b77.png",
     "static/media/NEVIN R PRADEEP.jpeg": "/V-BLAZE/static/media/NEVIN R PRADEEP.9eed8b4576c25e7d2be5.jpeg",
+    "static/media/Saran.jpeg": "/V-BLAZE/static/media/Saran.d62b4c3f473c15d16251.jpeg",
     "static/media/java.png": "/V-BLAZE/static/media/java.5d5cffa04d820ba0644c.png",
     "static/media/react.png": "/V-BLAZE/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/Pradul P.jpeg": "/V-BLAZE/static/media/Pradul P.12380401b0f78f2b9686.jpeg",
@@ -32,11 +41,11 @@
     "static/media/webdev.svg": "/V-BLAZE/static/media/webdev.e5a58c33977498a5c2d49528db679821.svg",
     "static/media/mob.svg": "/V-BLAZE/static/media/mob.cda1572fd06ae5edaad3c68a037953cd.svg",
     "index.html": "/V-BLAZE/index.html",
-    "main.85812244.css.map": "/V-BLAZE/static/css/main.85812244.css.map",
-    "main.595e9e4e.js.map": "/V-BLAZE/static/js/main.595e9e4e.js.map"
+    "main.cbe5c30a.css.map": "/V-BLAZE/static/css/main.cbe5c30a.css.map",
+    "main.2cb3403b.js.map": "/V-BLAZE/static/js/main.2cb3403b.js.map"
   },
   "entrypoints": [
-    "static/css/main.85812244.css",
-    "static/js/main.595e9e4e.js"
+    "static/css/main.cbe5c30a.css",
+    "static/js/main.2cb3403b.js"
   ]
 }
