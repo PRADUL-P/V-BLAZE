@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/V-BLAZE/static/css/main.164d225d.css",
-    "main.js": "/V-BLAZE/static/js/main.4c90e365.js",
+    "main.css": "/V-BLAZE/static/css/main.7a617481.css",
+    "main.js": "/V-BLAZE/static/js/main.4b70bcb2.js",
     "static/media/WebDC.png": "/V-BLAZE/static/media/WebDC.25f76a38206f433af51d.png",
     "static/media/Rajath.jpeg": "/V-BLAZE/static/media/Rajath.4173057e74595ed7d72f.jpeg",
     "static/media/ignite.png": "/V-BLAZE/static/media/ignite.e695a7e3927b78ced199.png",
@@ -43,11 +43,11 @@
     "static/media/webdev.svg": "/V-BLAZE/static/media/webdev.e5a58c33977498a5c2d49528db679821.svg",
     "static/media/mob.svg": "/V-BLAZE/static/media/mob.cda1572fd06ae5edaad3c68a037953cd.svg",
     "index.html": "/V-BLAZE/index.html",
-    "main.164d225d.css.map": "/V-BLAZE/static/css/main.164d225d.css.map",
-    "main.4c90e365.js.map": "/V-BLAZE/static/js/main.4c90e365.js.map"
+    "main.7a617481.css.map": "/V-BLAZE/static/css/main.7a617481.css.map",
+    "main.4b70bcb2.js.map": "/V-BLAZE/static/js/main.4b70bcb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.164d225d.css",
-    "static/js/main.4c90e365.js"
+    "static/css/main.7a617481.css",
+    "static/js/main.4b70bcb2.js"
   ]
 }
